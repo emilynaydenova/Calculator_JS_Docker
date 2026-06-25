@@ -1,7 +1,7 @@
 # Calculator_JS_Docker
 
-This is a revised example from the course Web Developer Bootcamp 2026 - Udemy.
-The new is adding Docker containers to run at localhost:8080.
+This project is based on a revised example from the Udemy course Web Developer Bootcamp 2026. 
+The latest update introduces Docker containerization, enabling the application to be deployed and accessed locally at http://localhost:8080.
 
 The steps are:
 1. docker build -t sass-compiler .
